@@ -10,7 +10,7 @@ The first step in the process was to gather data. The simulator includes a Train
 
   <center>
   <figure>
-  <img src="saved_graphs/sample_frame.jpg" alt="Sample Frame"/>
+  <img src="saved_graphs/sample_frame.jpg" alt="Sample Frame" align="center"/>
   <figcaption>Fig1. - A sample frame from the center camera.</figcaption>
   </figure>
   </center>
@@ -29,7 +29,7 @@ Once the data was collected, I took a quick look at the distribution of steering
 
 <center>
 <figure>
-  <img src="saved_graphs/angle_histogram.png"/>
+  <img src="saved_graphs/angle_histogram.png" align="center"/>
 <figcaption>Fig2. - Very high kurtosis distribution of steering angles.</figcaption>
 </figure>
 </center>
@@ -84,7 +84,7 @@ For training, I used the **Adam** optimizer in order to converge quickly (compar
 
 <center>
 <figure>
-<img src="saved_graphs/model.png" alt="Training & Validation Loss"/>
+<img src="saved_graphs/model.png" alt="Training & Validation Loss" align="center"/>
 <figcaption>Fig3. - Training and validation loss over 30 epochs.</figcaption>
 </figure>
 </center>
@@ -94,5 +94,5 @@ For training, I used the **Adam** optimizer in order to converge quickly (compar
 
 My model successfully drives around both tracks indefinitely! Click below to watch it perform on both tracks.  
 <center>
-[![Ballew BehavioralCloning](https://img.youtube.com/vi/hDXkNExg3KE/0.jpg)](https://www.youtube.com/watch?v=hDXkNExg3KE "Build your own self driving virtual car!")
+[![Ballew BehavioralCloning]('saved_graphs/video.jpg')](https://www.youtube.com/watch?v=hDXkNExg3KE "Build your own self driving virtual car!")
 </center>

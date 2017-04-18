@@ -92,7 +92,9 @@ For training, I used the **Adam** optimizer in order to converge quickly (compar
 ---
 ### Results
 
-My model successfully drives around both tracks indefinitely! Click below to watch it perform on both tracks.  
+My model successfully drives around both tracks indefinitely! [Click here](https://www.youtube.com/watch?v=hDXkNExg3KE) to watch it perform on both tracks.  
 <center>
-[![Ballew BehavioralCloning]('saved_graphs/video.jpg')](https://www.youtube.com/watch?v=hDXkNExg3KE "Build your own self driving virtual car!")
+<figure>
+<img src="saved_graphs/video.jpg"/>
+</figure>
 </center>

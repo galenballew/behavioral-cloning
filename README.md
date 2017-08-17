@@ -92,7 +92,7 @@ For training, I used the **Adam** optimizer in order to converge quickly (compar
 ---
 ### Results
 
-My model successfully drives around both tracks indefinitely! [Click here](https://www.youtube.com/watch?v=hDXkNExg3KE) to watch it perform on both tracks.  
+My model successfully drives around both tracks indefinitely! [Click here](https://www.youtube.com/watch?v=eFFw32FjUxc) to watch it perform on both tracks.  
 <center>
 <figure>
 <img src="saved_graphs/video.jpg"/>
